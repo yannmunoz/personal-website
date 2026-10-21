@@ -10,7 +10,7 @@ export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const { language, setLanguage, t } = useLanguage()
 
-  const linkedinUrl = "https://linkedin.com/in/zukog"
+  const linkedinUrl = "https://linkedin.com/in/yannmunoz"
 
   useEffect(() => {
     const handleScroll = () => {
@@ -38,7 +38,7 @@ export function Header() {
             href="/"
             className="text-xl font-semibold text-foreground hover:text-primary transition-colors"
           >
-            zukog<span className="text-primary">.</span>dev
+            yann<span className="text-primary">.</span>dev
           </Link>
 
           {/* Desktop Navigation */}

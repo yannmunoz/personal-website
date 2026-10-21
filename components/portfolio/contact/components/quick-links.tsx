@@ -13,13 +13,13 @@ export const QuickLinks = () => {
 
     const links = [
         {
-            href: "mailto:zukogmunoz@gmail.com",
+            href: "mailto:yannm.dev@gmail.com",
             label: t.contact.sendEmail,
             icon: Mail,
             isPrimary: true,
         },
         {
-            href: "https://linkedin.com/in/zukog",
+            href: "https://linkedin.com/in/yannmunoz",
             label: "LinkedIn",
             icon: Linkedin,
             isPrimary: false,

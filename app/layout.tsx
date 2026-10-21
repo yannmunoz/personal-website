@@ -15,20 +15,20 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://zukog.dev'),
+  metadataBase: new URL('https://yannmunoz.netlify.app/'),
   title: {
-    default: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
-    template: '%s | Zukog Muñoz'
+    default: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
+    template: '%s | Yann Muñoz'
   },
   description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.',
   keywords: ['Software Engineer', 'React', 'React Native', 'Mobile Developer', 'Fullstack', 'TypeScript', 'Next.js', 'Fintech', 'Clean Architecture'],
-  authors: [{ name: 'Zukog Muñoz' }],
-  creator: 'Zukog Muñoz',
+  authors: [{ name: 'Yann Muñoz' }],
+  creator: 'Yann Muñoz',
   openGraph: {
-    title: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
+    title: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
     description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
-    url: 'https://zukog.dev',
-    siteName: 'Zukog Muñoz Portfolio',
+    url: 'https://yannmunoz.netlify.app/',
+    siteName: 'Yann Muñoz Portfolio',
     locale: 'es_ES',
     type: 'website',
     images: [
@@ -36,18 +36,18 @@ export const metadata: Metadata = {
         url: '/icon.svg',
         width: 1200,
         height: 630,
-        alt: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
+        alt: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
+    title: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
     description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
     images: ['/icon.svg'],
   },
   alternates: {
-    canonical: 'https://zukog.dev',
+    canonical: 'https://yannmunoz.netlify.app',
     languages: {
       'es-ES': '/?lang=es',
       'en-US': '/?lang=en',

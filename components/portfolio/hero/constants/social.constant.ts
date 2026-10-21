@@ -12,12 +12,12 @@
  */
 export const SOCIAL_LINKS = {
   linkedin: {
-    url: "https://linkedin.com/in/zukog",
+    url: "https://linkedin.com/in/yannmunoz",
     label: "LinkedIn",
     ariaLabel: "LinkedIn"
   },
   email: {
-    url: "mailto:zukogmunoz@gmail.com",
+    url: "mailto:yannm.dev@gmail.com",
     label: "Email",
     ariaLabel: "Email"
   }
